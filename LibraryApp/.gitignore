@@ -1,0 +1,12 @@
+# Результаты сборки
+bin/
+obj/
+
+# Настройки Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+
+# Логи
+*.log
